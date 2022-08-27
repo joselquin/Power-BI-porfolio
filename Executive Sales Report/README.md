@@ -42,7 +42,6 @@ He creado un informe con 4 páginas:
 	- Estos filtros, igual que en la página de Equipo de Ventas, pueden seleccionarse en la ventana emergente que aparece al pulsar sobre el icono disponible en la izquierda del panel. En este caso, se puede filtrar por productos, ciudades, regiones y estados.
 
 
-	Por tanto, hay varias formas de llegar a la misma información, pero desde un punto de vista diferente, lo que permite mostrar diferentes historias o que la dirección navegue por los paneles viendo las distintas perspectivas de los datos.
+Por tanto, hay varias formas de llegar a la misma información, pero desde un punto de vista diferente, lo que permite mostrar diferentes historias o que la dirección navegue por los paneles viendo las distintas perspectivas de los datos.
 
-	En el caso de un analista, la idea sería no meter ningún filtro, describir la historia que cada panel muestra, centrándose en los puntos globales de mejora (peores productos, peores equipos de venta y peores localidades). Para ahondar más en cada uno de estos aspectos mejorables, ya si podríamos valernos de los filtros.
-	
+En el caso de un analista, la idea sería no meter ningún filtro, describir la historia que cada panel muestra, centrándose en los puntos globales de mejora (peores productos, peores equipos de venta y peores localidades). Para ahondar más en cada uno de estos aspectos mejorables, ya si podríamos valernos de los filtros.
