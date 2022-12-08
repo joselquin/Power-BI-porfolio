@@ -1,6 +1,6 @@
 # Executive Sales Report
 
-Este trabajo corresponde a mi propuesta para el CHallenge 1 de la web Enterprise DNA, prestigiosa web de formación y foro de Power BI. Cada 2 semanas, se lanza un reto con una base de datos para la que hay que proponer una solución que muestre los aspectos indicados en cada uno.
+Este trabajo corresponde a mi propuesta para el Challenge 1 de la web Enterprise DNA, prestigiosa web de formación y foro de Power BI. Cada 2 semanas, se lanza un reto con una base de datos para la que hay que proponer una solución que muestre los aspectos indicados en cada uno.
 
 En este caso, se trata de una base de datos de ventas de una empresa durante varios meses. Se trata de elaborar un informe ejecutivo para el Comité de Dirección que muestre la evolución de ventas y otros aspectos que puedan interesar a los directivos.
 
